@@ -27,7 +27,7 @@
 - 🌐 [User API with FastAPI](#) – RESTful API with JWT authentication
 
 ## 📬 Contact
-[![LinkedIn](https://www.linkedin.com/in/aldo-ramirez-diaz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-ramirez-diaz/)
 [![Email](https://img.shields.io/badge/email-aldoramirez@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
