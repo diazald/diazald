@@ -5,7 +5,6 @@
 ## 🚀 About Me
 - 💻 Currently advancing my skills in **Python** and modern backend frameworks.
 - 🌐 Interested in **web development (FastAPI/Flask)**, **task automation**, and **data analysis**.
-- 📚 Pursuing a Master's Degree in **Humanistic Pedagogical Mediation**.
 - 🧠 Lifelong learner – currently working on personal projects to build a strong portfolio.
 - 🤝 Open to collaboration, learning, and contributing to open-source.
 
