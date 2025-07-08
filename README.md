@@ -1,15 +1,15 @@
-# 👋 ¡Hola, soy Aldo Ramírez Díaz!
+# 👋 Hi, I'm Aldo Ramírez Díaz
 
-🎓 Soy Ingeniero en Tecnologías de la Información con pasión por el desarrollo de software, el análisis de datos y la automatización.
+🎓 I'm an Information Technology Engineer passionate about software development, data analysis, and automation.
 
-## 🚀 Acerca de mí
-- 💻 Actualmente profundizando mis conocimientos en **Python**.
-- 🌐 Interesado en **desarrollo web (FastAPI/Flask)**, **automatización**, y **análisis de datos**.
-- 📚 Estudiando una Maestría en **Mediación Pedagógica Humanista**.
-- 🌱 Siempre aprendiendo algo nuevo, ahora trabajando en proyectos personales para fortalecer mi portafolio.
-- 🧠 Interesado en educación, tecnología y soluciones con impacto real.
+## 🚀 About Me
+- 💻 Currently advancing my skills in **Python** and modern backend frameworks.
+- 🌐 Interested in **web development (FastAPI/Flask)**, **task automation**, and **data analysis**.
+- 📚 Pursuing a Master's Degree in **Humanistic Pedagogical Mediation**.
+- 🧠 Lifelong learner – currently working on personal projects to build a strong portfolio.
+- 🤝 Open to collaboration, learning, and contributing to open-source.
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -20,18 +20,19 @@
 
 ## 📈 GitHub Stats
 ![Aldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldoramirez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoramirez&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoramirez&layout=compact&theme=radical)
 
-## 📌 Repositorios destacados
-- 🎯 [Gestor de Tareas con Python](#) – CRUD en consola con persistencia JSON
-- 🧪 [Automatizador de PDFs](#) – Script para organizar archivos automáticamente
-- 🌐 [API REST con FastAPI](#) – Backend básico para gestión de usuarios
+## 📌 Featured Projects
+- 🎯 [Task Manager CLI](#) – Command-line app with JSON persistence
+- 🧪 [PDF Automation Tool](#) – Script to batch rename and organize PDF files
+- 🌐 [User API with FastAPI](#) – RESTful API with JWT authentication
 
-## 📬 Contacto
+## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldoramirez)
-[![Correo](https://img.shields.io/badge/email-aldoramirez@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/email-aldoramirez@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
-> *“El aprendizaje es experiencia, todo lo demás es información.”* — Albert Einstein
+> *“Learning is experience. Everything else is just information.”* — Albert Einstein
+
 
